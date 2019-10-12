@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pubienuhee.sspland.com/sitemap.xml
